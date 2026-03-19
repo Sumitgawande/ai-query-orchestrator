@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Insurance Portal with RAG
 
 A full-stack application featuring a React frontend and FastAPI backend with a Retrieval-Augmented Generation (RAG) pipeline for intelligent insurance query processing.
@@ -245,3 +246,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Support
 
 For issues and questions, please create an issue on GitHub or contact the development team.
+=======
+# ai-query-orchestrator
+>>>>>>> 26ff19db2eb9a5fdd7d7f63a92b11ef847a1bfb3
